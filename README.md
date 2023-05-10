@@ -6,6 +6,7 @@ I'm a Junior QA Engineer with one year of experience, I am proficient in writing
 
 - &nbsp; ![Azure Devops](https://img.shields.io/badge/-Azure_DevOps-0A1A2F?style=flat&logo=azure&logoColor=00d8fd)
   &nbsp; ![Pipelines](https://img.shields.io/badge/-Pipelines-0A1A2F?style=flat&logo=&logoColor=00d8fd)
+  &nbsp; ![Gradle](https://img.shields.io/badge/-Gradle-0A1A2F?style=flat&logo=gradle&logoColor=00d8fd)
 - &nbsp; ![Postman](https://img.shields.io/badge/-Postman-0A1A2F?style=flat&logo=postman&logoColor=00d8fd)
   &nbsp; ![Selenium](https://img.shields.io/badge/-Selenium-0A1A2F?style=flat&logo=selenium&logoColor=00d8fd)
   &nbsp; ![RestAssured](https://img.shields.io/badge/-RestAssured-0A1A2F?style=flat&logo=restassured&logoColor=00d8fd)
