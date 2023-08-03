@@ -1,6 +1,6 @@
 ## Hello 👋 I'm Damian
 
-As a Junior QA Engineer, I am proficient in both Selenium and API testing, along with holding an ISTQB certificate. Additionally, I have experience in performance testing and set up efficient pipelines. With a strong foundation in object-oriented programming and Java, I am skilled in backend testing and development. I am actively working towards becoming an **experienced Test Automation Engineer.**
+As a QA Engineer, I am proficient in both Selenium and API testing, along with holding an ISTQB certificate. Additionally, I have experience in performance testing and set up efficient pipelines. With a strong foundation in object-oriented programming and Java, I am skilled in backend testing and development. I am actively working towards becoming an **experienced Test Automation Engineer.**
 
 ### 🛠 &nbsp; Tools that I use:
 
