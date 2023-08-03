@@ -2,10 +2,11 @@
 
 As a Junior QA Engineer, I am proficient in both Selenium and API testing, along with holding an ISTQB certificate. Additionally, I have experience in performance testing and set up efficient pipelines. With a strong foundation in object-oriented programming and Java, I am skilled in backend testing and development. I am actively working towards becoming an **experienced Test Automation Engineer.**
 
-### 🛠 &nbsp; Testing tools that I use:
+### 🛠 &nbsp; Tools that I use:
 
 - &nbsp; ![Azure Devops](https://img.shields.io/badge/-Azure_DevOps-0A1A2F?style=flat&logo=azure&logoColor=00d8fd)
   &nbsp; ![Jenkins](https://img.shields.io/badge/-Jenkins-0A1A2F?style=flat&logo=jenkins&logoColor=00d8fd)
+  &nbsp; ![Docker](https://img.shields.io/badge/-Docker-0A1A2F?style=flat&logo=docker&logoColor=00d8fd)
   &nbsp; ![Gradle](https://img.shields.io/badge/-Gradle-0A1A2F?style=flat&logo=gradle&logoColor=00d8fd)
   &nbsp; ![Maven](https://img.shields.io/badge/-Maven-0A1A2F?style=flat&logo=maven&logoColor=00d8fd)
 - &nbsp; ![Postman](https://img.shields.io/badge/-Postman-0A1A2F?style=flat&logo=postman&logoColor=00d8fd)
