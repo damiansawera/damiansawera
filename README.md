@@ -13,6 +13,7 @@ As a QA Engineer, I am proficient in both Selenium and API testing, along with h
   &nbsp; ![cURL](https://img.shields.io/badge/-cURL-0A1A2F?style=flat&logo=curl&logoColor=00d8fd)
   &nbsp; ![Selenium](https://img.shields.io/badge/-Selenium-0A1A2F?style=flat&logo=selenium&logoColor=00d8fd)
   &nbsp; ![RestAssured](https://img.shields.io/badge/-RestAssured-0A1A2F?style=flat&logo=restassured&logoColor=00d8fd)
+  &nbsp; ![Cucumber](https://img.shields.io/badge/-Cucumber-0A1A2F?style=flat&logo=cucumber&logoColor=00d8fd)
 - &nbsp; ![Extent Reports](https://img.shields.io/badge/-Extent_Reports-0A1A2F?style=flat&logo=extentreports&logoColor=00d8fd)
   &nbsp; ![Allure Reports](https://img.shields.io/badge/-Allure_Reports-0A1A2F?style=flat&logo=allurereports&logoColor=00d8fd)
 - &nbsp; ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
